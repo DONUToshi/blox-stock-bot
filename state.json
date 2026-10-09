@@ -6,13 +6,12 @@
     "spring"
   ],
   "mirage": [
-    "blade",
-    "dark",
-    "diamond",
-    "flame",
-    "ghost",
+    "creation",
+    "gravity",
+    "light",
     "rocket",
     "spin",
-    "spirit"
+    "spring",
+    "t-rex"
   ]
 }
