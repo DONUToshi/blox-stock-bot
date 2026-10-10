@@ -5,9 +5,12 @@
     "spin"
   ],
   "mirage": [
-    "magma",
+    "bomb",
+    "diamond",
+    "light",
     "rocket",
     "sand",
-    "spin"
+    "spin",
+    "spring"
   ]
 }
