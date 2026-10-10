@@ -1,12 +1,14 @@
 {
   "normal": [
-    "blade",
-    "light",
+    "bomb",
+    "mammoth",
     "rocket",
     "spin"
   ],
   "mirage": [
-    "flame",
+    "buddha",
+    "light",
+    "pain",
     "rocket",
     "spin"
   ]
