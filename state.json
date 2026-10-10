@@ -6,9 +6,7 @@
     "spin"
   ],
   "mirage": [
-    "blade",
-    "bomb",
-    "quake",
+    "flame",
     "rocket",
     "spin"
   ]
