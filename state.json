@@ -1,17 +1,13 @@
 {
   "normal": [
-    "light",
+    "creation",
     "rocket",
-    "spin",
-    "spring"
+    "spin"
   ],
   "mirage": [
-    "creation",
-    "gravity",
-    "light",
+    "magma",
     "rocket",
-    "spin",
-    "spring",
-    "t-rex"
+    "sand",
+    "spin"
   ]
 }
