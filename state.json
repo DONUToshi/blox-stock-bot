@@ -2,18 +2,14 @@
   "normal": [
     "blade",
     "light",
-    "love",
     "rocket",
     "spin"
   ],
   "mirage": [
     "blade",
-    "buddha",
-    "dough",
-    "flame",
+    "bomb",
+    "quake",
     "rocket",
-    "rubber",
-    "smoke",
     "spin"
   ]
 }
