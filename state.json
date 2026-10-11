@@ -8,11 +8,9 @@
   ],
   "mirage": [
     "blade",
-    "buddha",
+    "ice",
     "rocket",
-    "sand",
-    "smoke",
-    "spin",
-    "tiger"
+    "spike",
+    "spin"
   ]
 }
