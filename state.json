@@ -7,13 +7,12 @@
     "spin"
   ],
   "mirage": [
-    "bomb",
-    "diamond",
+    "dark",
+    "ice",
+    "light",
+    "portal",
     "rocket",
-    "rubber",
     "smoke",
-    "spike",
-    "spin",
-    "spring"
+    "spin"
   ]
 }
