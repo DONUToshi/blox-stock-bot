@@ -7,12 +7,12 @@
     "spring"
   ],
   "mirage": [
-    "dark",
-    "ghost",
+    "diamond",
+    "light",
     "rocket",
+    "rubber",
+    "sand",
     "smoke",
-    "spider",
-    "spin",
-    "spring"
+    "spin"
   ]
 }
