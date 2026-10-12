@@ -8,11 +8,10 @@
   ],
   "mirage": [
     "blade",
-    "ghost",
-    "ice",
     "light",
     "rocket",
-    "sound",
+    "smoke",
+    "spike",
     "spin",
     "spring"
   ]
