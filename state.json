@@ -1,12 +1,19 @@
 {
   "normal": [
-    "magma",
+    "blade",
+    "dark",
+    "dough",
+    "flame",
+    "quake",
     "rocket",
-    "spin"
+    "spin",
+    "spring"
   ],
   "mirage": [
-    "buddha",
-    "ice",
+    "blade",
+    "bomb",
+    "light",
+    "magma",
     "rocket",
     "spin"
   ]
