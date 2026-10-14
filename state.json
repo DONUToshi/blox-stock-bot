@@ -1,18 +1,16 @@
 {
   "normal": [
+    "dark",
     "rocket",
-    "shadow",
     "spin"
   ],
   "mirage": [
     "blade",
     "bomb",
-    "dark",
-    "ghost",
-    "love",
-    "magma",
-    "portal",
+    "light",
     "rocket",
-    "spin"
+    "sand",
+    "spin",
+    "spring"
   ]
 }
