@@ -10,12 +10,12 @@
     "spin"
   ],
   "mirage": [
+    "bomb",
     "dark",
-    "ice",
-    "quake",
+    "light",
     "rocket",
     "rubber",
-    "smoke",
-    "spin"
+    "spin",
+    "spring"
   ]
 }
