@@ -6,11 +6,13 @@
   ],
   "mirage": [
     "blade",
-    "diamond",
-    "dough",
+    "bomb",
+    "dark",
+    "ghost",
+    "love",
+    "magma",
+    "portal",
     "rocket",
-    "sound",
-    "spider",
     "spin"
   ]
 }
