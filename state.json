@@ -1,19 +1,20 @@
 {
   "normal": [
+    "blade",
     "bomb",
-    "flame",
-    "ghost",
+    "eagle",
+    "ice",
+    "light",
     "rocket",
-    "smoke",
     "spike",
     "spin"
   ],
   "mirage": [
-    "blade",
-    "flame",
-    "light",
+    "dark",
+    "ice",
+    "quake",
     "rocket",
-    "sand",
+    "rubber",
     "smoke",
     "spin"
   ]
