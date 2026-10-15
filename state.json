@@ -6,12 +6,9 @@
     "spin"
   ],
   "mirage": [
-    "dark",
     "light",
     "rocket",
     "rubber",
-    "spider",
-    "spin",
-    "spring"
+    "spin"
   ]
 }
