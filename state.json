@@ -11,8 +11,6 @@
   "mirage": [
     "blade",
     "rocket",
-    "smoke",
-    "spider",
     "spin"
   ]
 }
