@@ -7,11 +7,12 @@
   ],
   "mirage": [
     "eagle",
+    "flame",
+    "ice",
+    "kitsune",
+    "pain",
     "rocket",
-    "sand",
-    "shadow",
     "smoke",
-    "sound",
     "spin"
   ]
 }
