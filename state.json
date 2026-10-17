@@ -9,8 +9,13 @@
     "tiger"
   ],
   "mirage": [
+    "blade",
+    "bomb",
+    "eagle",
+    "flame",
+    "ghost",
     "rocket",
-    "sand",
+    "smoke",
     "spin"
   ]
 }
