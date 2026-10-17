@@ -7,12 +7,14 @@
     "spirit"
   ],
   "mirage": [
-    "dark",
-    "flame",
-    "light",
+    "blade",
+    "bomb",
+    "ice",
+    "phoenix",
+    "quake",
     "rocket",
     "sand",
-    "spider",
+    "smoke",
     "spin"
   ]
 }
