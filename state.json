@@ -7,12 +7,12 @@
     "spin"
   ],
   "mirage": [
-    "buddha",
-    "eagle",
-    "ghost",
+    "dark",
     "gravity",
+    "light",
     "rocket",
-    "spider",
-    "spin"
+    "smoke",
+    "spin",
+    "spring"
   ]
 }
