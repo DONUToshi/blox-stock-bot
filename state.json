@@ -1,18 +1,18 @@
 {
   "normal": [
-    "diamond",
-    "magma",
+    "eagle",
+    "light",
     "rocket",
+    "sand",
     "spin"
   ],
   "mirage": [
-    "buddha",
-    "ice",
-    "light",
-    "love",
+    "blade",
+    "dark",
+    "flame",
+    "ghost",
     "rocket",
-    "smoke",
-    "spin",
-    "spring"
+    "rubber",
+    "spin"
   ]
 }
