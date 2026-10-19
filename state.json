@@ -8,12 +8,12 @@
     "spin"
   ],
   "mirage": [
-    "dark",
     "flame",
-    "ice",
-    "light",
     "rocket",
+    "rubber",
+    "shadow",
     "smoke",
+    "spike",
     "spin"
   ]
 }
