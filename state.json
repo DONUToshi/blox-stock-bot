@@ -7,10 +7,12 @@
     "spring"
   ],
   "mirage": [
+    "blade",
     "dark",
-    "flame",
+    "eagle",
+    "ice",
+    "light",
     "rocket",
-    "sand",
     "spin"
   ]
 }
