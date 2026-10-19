@@ -8,12 +8,12 @@
     "spin"
   ],
   "mirage": [
-    "blade",
-    "bomb",
-    "buddha",
-    "ice",
+    "dark",
+    "flame",
+    "mammoth",
     "rocket",
-    "spike",
-    "spin"
+    "sound",
+    "spin",
+    "spring"
   ]
 }
