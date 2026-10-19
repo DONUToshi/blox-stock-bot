@@ -5,10 +5,12 @@
     "spin"
   ],
   "mirage": [
-    "blizzard",
-    "ice",
+    "eagle",
+    "flame",
     "rocket",
-    "spin",
-    "t-rex"
+    "sand",
+    "smoke",
+    "spike",
+    "spin"
   ]
 }
