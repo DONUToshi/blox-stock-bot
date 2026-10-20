@@ -1,17 +1,16 @@
 {
   "normal": [
-    "blade",
+    "dark",
+    "flame",
     "rocket",
     "spin"
   ],
   "mirage": [
     "blade",
-    "buddha",
     "creation",
+    "flame",
     "rocket",
-    "rubber",
     "sand",
-    "smoke",
     "spin",
     "spring"
   ]
