@@ -6,12 +6,12 @@
     "spin"
   ],
   "mirage": [
-    "dark",
-    "ghost",
-    "magma",
+    "blade",
+    "flame",
+    "ice",
+    "kitsune",
     "rocket",
     "spin",
-    "spring",
-    "venom"
+    "spring"
   ]
 }
