@@ -8,12 +8,11 @@
   ],
   "mirage": [
     "blade",
-    "diamond",
-    "flame",
     "light",
-    "magma",
     "rocket",
-    "spike",
-    "spin"
+    "rubber",
+    "spin",
+    "spring",
+    "t-rex"
   ]
 }
