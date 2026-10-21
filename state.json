@@ -6,13 +6,13 @@
     "spin"
   ],
   "mirage": [
+    "blade",
+    "bomb",
     "diamond",
-    "eagle",
-    "ice",
+    "light",
+    "phoenix",
+    "quake",
     "rocket",
-    "rubber",
-    "spike",
-    "spin",
-    "t-rex"
+    "spin"
   ]
 }
