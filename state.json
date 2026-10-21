@@ -9,12 +9,13 @@
   ],
   "mirage": [
     "blade",
-    "eagle",
+    "bomb",
+    "diamond",
     "flame",
     "magma",
     "rocket",
-    "rubber",
     "smoke",
+    "spider",
     "spin",
     "spring"
   ]
