@@ -6,13 +6,12 @@
   ],
   "mirage": [
     "blade",
-    "bomb",
-    "flame",
-    "love",
+    "blizzard",
+    "light",
+    "pain",
     "quake",
     "rocket",
     "smoke",
-    "spike",
     "spin"
   ]
 }
