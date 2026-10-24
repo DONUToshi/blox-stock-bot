@@ -12,11 +12,12 @@
   ],
   "mirage": [
     "blade",
-    "flame",
-    "ghost",
-    "magma",
+    "diamond",
+    "dough",
     "rocket",
     "smoke",
-    "spin"
+    "spider",
+    "spin",
+    "yeti"
   ]
 }
