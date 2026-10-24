@@ -1,15 +1,15 @@
 {
   "normal": [
-    "flame",
-    "ice",
-    "light",
+    "dark",
     "rocket",
+    "smoke",
     "spin"
   ],
   "mirage": [
     "bomb",
-    "flame",
+    "light",
     "rocket",
+    "sand",
     "smoke",
     "spin",
     "spring"
