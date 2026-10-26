@@ -1,16 +1,17 @@
 {
   "normal": [
-    "kitsune",
-    "magma",
+    "blade",
+    "dark",
     "rocket",
     "smoke",
-    "spin"
+    "spin",
+    "spring"
   ],
   "mirage": [
-    "blade",
-    "creation",
-    "flame",
+    "buddha",
+    "ice",
     "rocket",
+    "rubber",
     "sand",
     "spin",
     "spring"
