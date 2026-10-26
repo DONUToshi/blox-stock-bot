@@ -8,13 +8,10 @@
     "spring"
   ],
   "mirage": [
-    "creation",
-    "dark",
     "flame",
-    "ghost",
     "light",
     "rocket",
-    "smoke",
+    "sand",
     "spin"
   ]
 }
