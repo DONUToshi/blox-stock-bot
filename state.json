@@ -6,11 +6,12 @@
     "spin"
   ],
   "mirage": [
-    "bomb",
     "buddha",
+    "creation",
     "eagle",
-    "flame",
-    "light",
+    "ice",
+    "magma",
+    "quake",
     "rocket",
     "spin"
   ]
