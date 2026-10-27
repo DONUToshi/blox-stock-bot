@@ -8,13 +8,12 @@
     "spring"
   ],
   "mirage": [
+    "buddha",
+    "diamond",
+    "flame",
+    "ghost",
+    "light",
     "rocket",
-    "rubber",
-    "sand",
-    "smoke",
-    "spike",
-    "spin",
-    "spring",
-    "t-rex"
+    "spin"
   ]
 }
