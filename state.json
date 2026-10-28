@@ -8,9 +8,10 @@
   ],
   "mirage": [
     "blade",
-    "dark",
-    "flame",
+    "bomb",
     "rocket",
+    "sand",
+    "shadow",
     "smoke",
     "spike",
     "spin"
