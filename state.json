@@ -7,12 +7,12 @@
     "spin"
   ],
   "mirage": [
+    "blade",
+    "bomb",
+    "buddha",
     "dark",
-    "diamond",
-    "flame",
-    "ice",
+    "light",
     "rocket",
-    "smoke",
     "spin"
   ]
 }
