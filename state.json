@@ -5,12 +5,12 @@
     "spin"
   ],
   "mirage": [
-    "flame",
-    "ghost",
-    "lightning",
-    "pain",
+    "blade",
+    "bomb",
+    "creation",
     "rocket",
     "smoke",
-    "spin"
+    "spin",
+    "venom"
   ]
 }
