@@ -11,13 +11,13 @@
     "venom"
   ],
   "mirage": [
-    "creation",
-    "eagle",
+    "blade",
     "flame",
-    "light",
-    "magma",
+    "gas",
+    "quake",
     "rocket",
-    "sand",
+    "rubber",
+    "spike",
     "spin"
   ]
 }
