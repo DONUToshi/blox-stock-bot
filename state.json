@@ -7,12 +7,13 @@
     "spin"
   ],
   "mirage": [
-    "blade",
-    "ice",
+    "creation",
+    "eagle",
     "light",
-    "quake",
     "rocket",
-    "spin",
-    "spring"
+    "rubber",
+    "smoke",
+    "spike",
+    "spin"
   ]
 }
