@@ -1,16 +1,20 @@
 {
   "normal": [
-    "diamond",
+    "creation",
+    "ice",
+    "light",
     "rocket",
+    "sand",
     "spin"
   ],
   "mirage": [
-    "dark",
-    "light",
-    "pain",
+    "flame",
+    "gas",
+    "portal",
     "rocket",
     "sand",
     "spike",
-    "spin"
+    "spin",
+    "spring"
   ]
 }
