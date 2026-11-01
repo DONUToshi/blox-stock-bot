@@ -6,11 +6,12 @@
   ],
   "mirage": [
     "blade",
-    "creation",
-    "eagle",
-    "light",
-    "magma",
+    "dark",
+    "flame",
+    "ice",
     "rocket",
+    "smoke",
+    "spike",
     "spin"
   ]
 }
