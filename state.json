@@ -8,13 +8,11 @@
     "spin"
   ],
   "mirage": [
-    "buddha",
     "dark",
-    "diamond",
-    "ghost",
+    "flame",
+    "light",
+    "magma",
     "rocket",
-    "sand",
-    "smoke",
     "spike",
     "spin"
   ]
