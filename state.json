@@ -1,19 +1,22 @@
 {
   "normal": [
+    "blade",
     "dark",
     "eagle",
+    "flame",
     "ghost",
-    "ice",
+    "magma",
     "rocket",
     "spin"
   ],
   "mirage": [
     "blade",
     "creation",
-    "eagle",
-    "love",
+    "gas",
+    "portal",
     "rocket",
     "smoke",
+    "spike",
     "spin"
   ]
 }
