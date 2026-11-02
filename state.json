@@ -5,11 +5,9 @@
     "spring"
   ],
   "mirage": [
-    "bomb",
-    "ice",
+    "blade",
     "rocket",
-    "sand",
-    "spike",
-    "spin"
+    "spin",
+    "spring"
   ]
 }
