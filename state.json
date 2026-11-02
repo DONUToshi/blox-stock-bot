@@ -8,12 +8,10 @@
     "spin"
   ],
   "mirage": [
-    "bomb",
-    "buddha",
     "diamond",
-    "light",
+    "dough",
+    "flame",
     "rocket",
-    "spin",
-    "spring"
+    "spin"
   ]
 }
