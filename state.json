@@ -9,15 +9,11 @@
   ],
   "mirage": [
     "blade",
-    "buddha",
-    "control",
-    "creation",
-    "magma",
+    "bomb",
+    "flame",
+    "love",
     "rocket",
     "smoke",
-    "spider",
-    "spike",
-    "spin",
-    "spring"
+    "spin"
   ]
 }
