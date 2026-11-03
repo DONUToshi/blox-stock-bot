@@ -8,12 +8,10 @@
   ],
   "mirage": [
     "blade",
-    "ice",
+    "dark",
     "light",
-    "portal",
     "rocket",
     "smoke",
-    "spin",
-    "spring"
+    "spin"
   ]
 }
