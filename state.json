@@ -10,11 +10,11 @@
     "spring"
   ],
   "mirage": [
+    "dark",
     "flame",
-    "light",
-    "quake",
+    "lightning",
+    "love",
     "rocket",
-    "smoke",
     "spike",
     "spin"
   ]
