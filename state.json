@@ -7,13 +7,9 @@
     "spin"
   ],
   "mirage": [
-    "buddha",
-    "gravity",
-    "light",
+    "ice",
     "portal",
     "rocket",
-    "rubber",
-    "smoke",
     "spin"
   ]
 }
