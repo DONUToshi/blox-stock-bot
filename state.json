@@ -7,13 +7,9 @@
     "spin"
   ],
   "mirage": [
-    "blade",
-    "diamond",
     "flame",
-    "love",
     "rocket",
-    "sound",
-    "spike",
-    "spin"
+    "spin",
+    "spring"
   ]
 }
