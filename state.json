@@ -7,10 +7,11 @@
   ],
   "mirage": [
     "blade",
-    "dark",
-    "flame",
+    "creation",
+    "eagle",
     "rocket",
-    "spin",
-    "spring"
+    "rubber",
+    "spike",
+    "spin"
   ]
 }
