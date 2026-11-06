@@ -6,11 +6,11 @@
   ],
   "mirage": [
     "bomb",
-    "dark",
     "flame",
-    "phoenix",
-    "portal",
     "rocket",
+    "smoke",
+    "spider",
+    "spike",
     "spin"
   ]
 }
