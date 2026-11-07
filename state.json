@@ -8,12 +8,14 @@
     "spring"
   ],
   "mirage": [
-    "blade",
-    "ice",
+    "diamond",
+    "flame",
     "light",
-    "love",
+    "magma",
+    "portal",
     "rocket",
     "rubber",
+    "sand",
     "spin"
   ]
 }
