@@ -8,11 +8,11 @@
   ],
   "mirage": [
     "blade",
-    "blizzard",
-    "bomb",
+    "flame",
+    "ice",
+    "light",
+    "phoenix",
     "rocket",
-    "spider",
-    "spin",
-    "yeti"
+    "spin"
   ]
 }
