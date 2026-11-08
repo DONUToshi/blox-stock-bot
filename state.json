@@ -11,13 +11,11 @@
   ],
   "mirage": [
     "blade",
-    "buddha",
-    "dark",
-    "diamond",
-    "flame",
-    "magma",
+    "gravity",
+    "ice",
+    "love",
+    "quake",
     "rocket",
-    "shadow",
     "spin"
   ]
 }
