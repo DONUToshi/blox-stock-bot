@@ -1,22 +1,17 @@
 {
   "normal": [
-    "creation",
-    "dark",
-    "flame",
-    "portal",
+    "bomb",
+    "diamond",
     "rocket",
-    "smoke",
-    "spike",
     "spin"
   ],
   "mirage": [
     "blade",
-    "light",
-    "love",
+    "bomb",
+    "buddha",
+    "flame",
+    "portal",
     "rocket",
-    "sand",
-    "smoke",
-    "spin",
-    "yeti"
+    "spin"
   ]
 }
