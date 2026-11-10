@@ -9,13 +9,11 @@
   ],
   "mirage": [
     "blade",
-    "diamond",
-    "ice",
+    "dark",
+    "flame",
     "light",
-    "mammoth",
-    "portal",
     "rocket",
-    "sound",
+    "sand",
     "spin"
   ]
 }
