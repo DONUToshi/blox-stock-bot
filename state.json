@@ -5,9 +5,14 @@
     "spin"
   ],
   "mirage": [
+    "blade",
+    "bomb",
+    "control",
+    "dark",
     "flame",
+    "phoenix",
+    "portal",
     "rocket",
-    "rubber",
     "spin"
   ]
 }
