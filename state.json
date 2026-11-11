@@ -9,13 +9,12 @@
     "spin"
   ],
   "mirage": [
-    "blade",
-    "dark",
     "flame",
-    "lightning",
+    "light",
+    "magma",
     "rocket",
-    "sound",
-    "spike",
-    "spin"
+    "spider",
+    "spin",
+    "spring"
   ]
 }
