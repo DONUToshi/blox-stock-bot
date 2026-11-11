@@ -11,10 +11,12 @@
   ],
   "mirage": [
     "blade",
-    "diamond",
-    "dough",
-    "light",
+    "bomb",
+    "dark",
+    "eagle",
+    "flame",
     "rocket",
+    "sand",
     "smoke",
     "spin"
   ]
