@@ -7,7 +7,12 @@
   ],
   "mirage": [
     "blade",
+    "bomb",
+    "creation",
+    "flame",
+    "magma",
     "rocket",
-    "spin"
+    "spin",
+    "spring"
   ]
 }
