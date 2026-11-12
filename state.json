@@ -8,12 +8,13 @@
     "spring"
   ],
   "mirage": [
-    "bomb",
-    "dark",
+    "blade",
+    "flame",
+    "mammoth",
+    "quake",
     "rocket",
     "sand",
-    "smoke",
-    "spin",
-    "spring"
+    "sound",
+    "spin"
   ]
 }
