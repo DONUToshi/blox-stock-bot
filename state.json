@@ -1,20 +1,13 @@
 {
   "normal": [
-    "blade",
-    "ice",
+    "lightning",
+    "pain",
     "rocket",
-    "rubber",
-    "spin",
-    "spring"
+    "spin"
   ],
   "mirage": [
     "blade",
-    "flame",
-    "mammoth",
-    "quake",
     "rocket",
-    "sand",
-    "sound",
     "spin"
   ]
 }
