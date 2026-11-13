@@ -10,12 +10,12 @@
   ],
   "mirage": [
     "blade",
+    "dark",
+    "diamond",
     "gravity",
-    "mammoth",
+    "ice",
     "rocket",
-    "rubber",
-    "sand",
-    "smoke",
-    "spin"
+    "spin",
+    "spring"
   ]
 }
