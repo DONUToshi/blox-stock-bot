@@ -7,14 +7,11 @@
   ],
   "mirage": [
     "blade",
-    "diamond",
-    "flame",
-    "ghost",
-    "quake",
+    "bomb",
+    "creation",
+    "light",
     "rocket",
-    "sand",
     "smoke",
-    "spin",
-    "spring"
+    "spin"
   ]
 }
