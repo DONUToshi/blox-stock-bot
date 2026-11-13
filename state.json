@@ -9,11 +9,11 @@
   ],
   "mirage": [
     "blade",
-    "dark",
-    "flame",
-    "ice",
-    "light",
+    "ghost",
+    "magma",
+    "pain",
     "rocket",
+    "rubber",
     "spin"
   ]
 }
