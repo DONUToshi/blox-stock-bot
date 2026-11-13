@@ -8,11 +8,11 @@
   "mirage": [
     "blade",
     "bomb",
-    "diamond",
-    "light",
+    "dark",
+    "eagle",
+    "love",
+    "magma",
     "rocket",
-    "rubber",
-    "sand",
     "spin"
   ]
 }
