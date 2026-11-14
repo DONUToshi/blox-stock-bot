@@ -9,10 +9,6 @@
   ],
   "mirage": [
     "blade",
-    "dark",
-    "flame",
-    "ice",
-    "light",
     "rocket",
     "spin",
     "spring"
