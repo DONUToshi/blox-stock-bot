@@ -9,13 +9,13 @@
     "yeti"
   ],
   "mirage": [
-    "buddha",
-    "eagle",
+    "blade",
+    "bomb",
     "flame",
     "light",
     "rocket",
-    "smoke",
-    "spin",
-    "spring"
+    "sand",
+    "spike",
+    "spin"
   ]
 }
