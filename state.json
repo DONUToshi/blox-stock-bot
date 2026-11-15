@@ -9,13 +9,12 @@
     "spin"
   ],
   "mirage": [
+    "blade",
+    "bomb",
     "creation",
-    "flame",
-    "ice",
-    "light",
-    "mammoth",
+    "love",
     "rocket",
-    "spin",
-    "t-rex"
+    "smoke",
+    "spin"
   ]
 }
