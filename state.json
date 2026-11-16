@@ -7,12 +7,14 @@
   ],
   "mirage": [
     "blade",
-    "blizzard",
     "bomb",
-    "buddha",
+    "dark",
     "flame",
+    "love",
     "magma",
+    "portal",
     "rocket",
+    "spike",
     "spin",
     "spring"
   ]
