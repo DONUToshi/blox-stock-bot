@@ -8,13 +8,10 @@
     "spin"
   ],
   "mirage": [
-    "diamond",
-    "ghost",
-    "gravity",
-    "light",
+    "blade",
+    "bomb",
     "rocket",
-    "smoke",
-    "spin",
-    "spring"
+    "spike",
+    "spin"
   ]
 }
