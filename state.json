@@ -7,12 +7,12 @@
     "spin"
   ],
   "mirage": [
-    "bomb",
+    "dark",
     "diamond",
     "flame",
-    "light",
+    "kitsune",
     "rocket",
-    "sand",
-    "spin"
+    "spin",
+    "t-rex"
   ]
 }
