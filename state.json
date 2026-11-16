@@ -6,13 +6,8 @@
     "spin"
   ],
   "mirage": [
-    "blade",
-    "dark",
-    "diamond",
-    "eagle",
-    "light",
     "rocket",
-    "sand",
+    "rubber",
     "spin"
   ]
 }
