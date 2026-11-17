@@ -3,15 +3,16 @@
     "blade",
     "flame",
     "rocket",
-    "spin"
+    "smoke",
+    "spin",
+    "spirit"
   ],
   "mirage": [
-    "blade",
-    "flame",
+    "diamond",
+    "eagle",
     "light",
-    "quake",
+    "magma",
     "rocket",
-    "spike",
     "spin",
     "spring"
   ]
