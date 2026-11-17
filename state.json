@@ -6,11 +6,10 @@
     "spin"
   ],
   "mirage": [
-    "buddha",
     "flame",
-    "ghost",
+    "ice",
+    "magma",
     "rocket",
-    "rubber",
     "smoke",
     "spike",
     "spin"
