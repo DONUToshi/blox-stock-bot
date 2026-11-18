@@ -6,10 +6,10 @@
   ],
   "mirage": [
     "blade",
-    "bomb",
-    "flame",
-    "light",
+    "creation",
+    "ice",
     "rocket",
+    "rubber",
     "smoke",
     "spin"
   ]
