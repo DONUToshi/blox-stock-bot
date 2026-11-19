@@ -6,9 +6,13 @@
     "spin"
   ],
   "mirage": [
+    "blade",
+    "bomb",
+    "buddha",
+    "light",
     "rocket",
-    "sand",
-    "smoke",
+    "rubber",
+    "spike",
     "spin"
   ]
 }
