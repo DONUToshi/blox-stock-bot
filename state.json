@@ -9,11 +9,12 @@
     "spring"
   ],
   "mirage": [
+    "creation",
     "flame",
+    "ghost",
     "light",
-    "portal",
+    "phoenix",
     "rocket",
-    "spin",
-    "spring"
+    "spin"
   ]
 }
