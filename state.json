@@ -7,9 +7,12 @@
     "spring"
   ],
   "mirage": [
-    "dark",
-    "ice",
+    "bomb",
+    "flame",
+    "magma",
+    "quake",
     "rocket",
+    "rubber",
     "spin"
   ]
 }
