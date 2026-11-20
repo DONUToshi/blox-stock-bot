@@ -6,12 +6,13 @@
     "spin"
   ],
   "mirage": [
-    "bomb",
-    "buddha",
-    "dark",
+    "creation",
+    "diamond",
+    "quake",
     "rocket",
     "smoke",
-    "spider",
-    "spin"
+    "spike",
+    "spin",
+    "tiger"
   ]
 }
