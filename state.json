@@ -11,13 +11,12 @@
     "spring"
   ],
   "mirage": [
-    "bomb",
-    "creation",
+    "light",
     "magma",
-    "phoenix",
+    "quake",
     "rocket",
-    "smoke",
-    "spin",
-    "t-rex"
+    "rubber",
+    "spike",
+    "spin"
   ]
 }
