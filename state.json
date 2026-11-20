@@ -5,12 +5,9 @@
     "spin"
   ],
   "mirage": [
-    "ice",
-    "light",
+    "blade",
+    "dark",
     "rocket",
-    "sand",
-    "smoke",
-    "spike",
     "spin"
   ]
 }
