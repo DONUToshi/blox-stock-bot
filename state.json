@@ -11,11 +11,13 @@
   ],
   "mirage": [
     "blade",
-    "diamond",
-    "dough",
+    "bomb",
+    "creation",
+    "dark",
     "flame",
     "light",
     "rocket",
-    "spin"
+    "spin",
+    "t-rex"
   ]
 }
