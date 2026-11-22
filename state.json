@@ -6,13 +6,13 @@
     "spring"
   ],
   "mirage": [
+    "blade",
     "bomb",
-    "dark",
     "flame",
+    "light",
+    "love",
     "rocket",
     "sand",
-    "smoke",
-    "sound",
     "spin"
   ]
 }
