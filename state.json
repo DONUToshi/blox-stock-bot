@@ -8,11 +8,11 @@
     "spring"
   ],
   "mirage": [
-    "blade",
-    "buddha",
-    "dough",
-    "flame",
+    "bomb",
+    "dark",
+    "light",
     "rocket",
+    "sand",
     "smoke",
     "spin"
   ]
