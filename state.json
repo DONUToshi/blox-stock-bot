@@ -10,12 +10,12 @@
     "spring"
   ],
   "mirage": [
-    "dark",
-    "light",
+    "flame",
     "magma",
-    "portal",
+    "phoenix",
     "rocket",
     "smoke",
+    "spike",
     "spin"
   ]
 }
