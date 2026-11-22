@@ -8,14 +8,11 @@
     "spin"
   ],
   "mirage": [
-    "blade",
-    "blizzard",
     "bomb",
-    "diamond",
-    "ice",
-    "light",
+    "quake",
     "rocket",
-    "sand",
+    "rubber",
+    "smoke",
     "spin",
     "spring"
   ]
