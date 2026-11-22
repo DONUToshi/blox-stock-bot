@@ -6,11 +6,9 @@
     "spin"
   ],
   "mirage": [
-    "blade",
-    "blizzard",
     "dark",
     "flame",
-    "ghost",
+    "ice",
     "rocket",
     "spin"
   ]
