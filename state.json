@@ -10,10 +10,9 @@
     "blade",
     "bomb",
     "dark",
-    "diamond",
-    "magma",
-    "quake",
+    "light",
     "rocket",
-    "spin"
+    "spin",
+    "spring"
   ]
 }
