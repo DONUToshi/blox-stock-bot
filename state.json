@@ -7,14 +7,13 @@
     "spin"
   ],
   "mirage": [
-    "buddha",
-    "creation",
+    "dark",
+    "diamond",
     "flame",
-    "light",
+    "ice",
+    "magma",
     "rocket",
-    "rubber",
-    "sand",
-    "spike",
-    "spin"
+    "spin",
+    "spirit"
   ]
 }
