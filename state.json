@@ -6,12 +6,14 @@
     "spring"
   ],
   "mirage": [
-    "blade",
     "dark",
-    "ice",
+    "diamond",
+    "pain",
+    "phoenix",
     "quake",
     "rocket",
-    "smoke",
+    "sand",
+    "spike",
     "spin"
   ]
 }
