@@ -8,12 +8,11 @@
     "spin"
   ],
   "mirage": [
-    "ghost",
-    "magma",
+    "blade",
+    "creation",
+    "phoenix",
     "rocket",
     "smoke",
-    "spider",
-    "spin",
-    "spring"
+    "spin"
   ]
 }
