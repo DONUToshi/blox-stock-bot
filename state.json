@@ -7,12 +7,13 @@
     "spring"
   ],
   "mirage": [
+    "blade",
     "bomb",
-    "buddha",
-    "creation",
-    "ghost",
+    "dark",
+    "flame",
     "rocket",
-    "smoke",
-    "spin"
+    "sand",
+    "spin",
+    "t-rex"
   ]
 }
