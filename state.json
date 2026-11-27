@@ -5,12 +5,10 @@
     "spin"
   ],
   "mirage": [
-    "blade",
-    "bomb",
-    "ghost",
-    "portal",
+    "dark",
+    "lightning",
+    "magma",
     "rocket",
-    "sand",
     "smoke",
     "spike",
     "spin"
